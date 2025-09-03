@@ -1,3 +1,4 @@
 # testrepo
 ibm data science practice
-print{"hello")
+
+writing some python code
